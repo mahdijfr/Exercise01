@@ -2,7 +2,7 @@ In this exercise we try to program a contacts app with basic features (without u
 NB: Since we are not working with files the contact list is gone after the program is closed.
 The following features will be included:
 1. The first command is "add".
-    "add" function is to *drum rolls* no surprise, adding new contacts to our list. The goal is when we enter "add" the proram recieves info of a contact and declare an Id to it then return the id; it works as demonstrated below(the orange parts are printed by program in console the other parts are inputs, and the last 2 lines are output):
+    "add" function is to *drum rolls* no surprise, adding new contacts to our list. The goal is when we enter "add" the proram recieves info of a contact and declare an Id to it then return the id; it works as demonstrated below(the orange parts are printed by program in console the other parts are inputs, and the last 2 lines are output):\n
 `enter your command: `add
     `first name: `James
     `last name: `Holden
